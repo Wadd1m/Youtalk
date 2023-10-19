@@ -1,0 +1,349 @@
+body {
+    font-family: Montserrat;
+    font-size: #000;
+    font-size: 14;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+
+h2 {
+    color: var(--text-primary, #333);
+    /* H4 18:26 */
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+    /* 144.444% */
+}
+
+h3,
+.content__block4-text4 {
+    color: var(--text-primary, #333);
+
+    /* H3 24:32 */
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    /* 133.333% */
+}
+
+h5 {
+    color: var(--text-primary, #333);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    /* 133.333% */
+    margin: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.menu__list-link,
+.nav__menu-btn {
+    color: var(--text-primary, #333);
+    text-align: center;
+    /* xl/ link1 medium */
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 114%;
+    /* 15.96px */
+    letter-spacing: 0.25px;
+}
+
+.menu__list {
+    font-family: Montserrat;
+    font-weight: 500;
+}
+
+.menu__btn {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 114%;
+    letter-spacing: 0.25px;
+}
+
+.btn-search,
+.btn-down,
+.content__ftr_btn,
+.content__reclama_btn {
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.main__nav-top {
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    /* 150% */
+    letter-spacing: 0.25px;
+}
+
+.main__nav_list {
+    color: #333;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    /* 142.857% */
+}
+
+.main__text,
+.content__article-h1,
+.content__ftr_block1 h1 {
+    font-family: Montserrat;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+/* font-size: calc(24px + 24 * (100vw / 1440)); */
+}
+
+.text_author {
+    color: #494949;
+
+    /* Text 12:18 */
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    /* 150% */
+    letter-spacing: 0.25px;
+}
+
+.text_words-up,
+.text_words-center,
+.text_words-down,
+.content__article_nav-list,
+.content__block1-text p,
+.content__block2-list2 li,
+.content__block4-text1 {
+    color: var(--text-primary, #333);
+    /* Text 2 14:20 */
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+.content__block4-text3{
+    color: var(--primery-b-10, #011632);
+
+/* LK/Web/ 14:20 Body */
+font-family: Open Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 142.857% */
+}
+.main__nav_img-foto {
+    color: #333;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    /* 142.857% */
+}
+
+.text_date {
+    color: #868686;
+
+    /* Text 12:18 */
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.25px;
+}
+
+.btn-down{
+    color: #FFF;
+    text-align: center;
+    /* Web/Text bold 16:24 */
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    /* 150% */
+}
+.footer__menu-list{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    /* 150% */
+}
+
+
+input {
+    color: var(--text-secondary, #9D9D9D);
+
+    /* Text 2 14:20 */
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    /* 142.857% */
+}
+
+.footer__name-search {
+    color: #FFF;
+
+    /* H4 18:26 */
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+    /* 144.444% */
+}
+
+.footer__name-search2 {
+    color: #FFF;
+
+    /* Text 12:18 */
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    /* 150% */
+    letter-spacing: 0.25px;
+    opacity: 0.7;
+}
+
+.footer__p p {
+    color: #FFF;
+
+    /* Text 2 14:20 */
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    /* 142.857% */
+    opacity: 0.7;
+}
+
+.content__article-6 {
+    color: var(--text-primary, #333);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 150% */
+}
+
+.content__article-6_text{
+    color: var(--text-primary, #333);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+}
+.content__article-3 > p{
+    color: var(--text-primary, #333);
+      font-family: Montserrat;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+}
+.content__ftr_block p {
+    color: var(--text-primary, #333);
+
+    /* Text 18:26 */
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    /* 144.444% */
+}
+.content__block2-list1{
+    color: var(--text-primary, #333);
+font-family: Montserrat;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 18px; /* 150% */
+letter-spacing: 0.25px;
+}
+.content__block2-name{
+    color: var(--text-primary, #333);
+text-align: center;
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px; /* 140% */
+}
+.content__block2-work{
+    align-self: stretch;
+    color: var(--text-primary, #333);
+text-align: center;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; /* 150% */
+}
+.content__block2-exp1{
+    color: var(--neutrals-n-66, #A2A7B1);
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 142.857% */
+}
+.content__block4-text1 {
+    color: #2963A3;
+
+/* H3 24:32 */
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px; /* 133.333% */
+}
+.content__block4-text2{
+    color: #2963A3;
+
+/* H4 18:26 */
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 26px; /* 144.444% */
+}
